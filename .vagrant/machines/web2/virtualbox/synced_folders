@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/Users/ejose/Downloads/vagrant_practice_EJ/html/web2","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/ejose/Downloads/vagrant_practice_EJ","disabled":false,"__vagrantfile":true}}}
